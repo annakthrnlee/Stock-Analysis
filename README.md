@@ -10,6 +10,7 @@ my analysis, in 2018 DQ had a -63% return rate. Steve can now explain to his par
 DQ may not be the best option based on that year's return rate. However, Steve could also use my analysis and run the same code but for 2017. 
 In 2017, DQ was up by 199.4% which is an exceptional return rate compared to 2018. Based on these findings, it's up to Steve and his family to 
 determine their individual risk based on the data provided.
+
 <img width="373" alt="2018 DQ return" src="https://user-images.githubusercontent.com/104043438/168684005-eba0077f-ff08-4ebf-ae16-9f705aa95dbf.png">
 
 ### Summary:
