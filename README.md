@@ -25,7 +25,9 @@ refactor my old code yet again. I added a clear button in my first analysis whic
 
 #### The code I used was: 
 Sub Worksheets("All Stocks Analysis").Activate
+
 Cells.Clear
+
 End Sub
 
 Another problem that could arise when refactoring code is bugs, sometimes your old code won’t do exactly what you anticipated in the new one so it’s 
