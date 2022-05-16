@@ -19,9 +19,8 @@ determine their individual risk based on the data provided.
 After completing the same analysis throughout module 2, it was convenient to have the ability to refactor the code and use it for my new analysis. 
 While refactoring code does save a lot of time, it also comes with a price. Once the code has been pasted back into VBA, you must look through it 
 and commit any changes necessary in order for it to run with your new project. The smallest thing will create an error, which I experienced multiple 
-times throughout completing my analysis. The first error that kept recurring concerned the date. I attempted multiple times to enable a button to run 
-the analysis for each year but I was unable to separate 2017 and 2018. Luckily the challenge didn’t require a button so I was able to avoid having to 
-refactor my old code yet again. I added a clear button in my first analysis which helped me revert back to my original findings if anything went wrong. 
+times throughout completing my analysis. The first error that kept recurring concerned the year for each stock. I attempted multiple times to build a button to run an analysis for each year but I was unable to separate 2017 and 2018 for a while which became frustrating. I then added a clear button in 
+my first analysis which helped me revert back to my original findings if anything went wrong. 
 
 #### The code I used was: 
 Sub Worksheets("All Stocks Analysis").Activate
