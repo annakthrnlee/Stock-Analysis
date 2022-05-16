@@ -1,17 +1,17 @@
 # Stock-Analysis
-###Overview of Project:
+### Overview of Project:
 The purpose of my analysis is to help Steve analyze different stock data covering a two year period. Steve’s goal is to help his parents decide which 
 stocks are financially profitable so that they can determine which investments are smarter in the long-run. My analysis helps him see each stock's 
 potential while also separating them by year (2017 and 2018). After reviewing my analysis, Steve can now help his parents invest in more reliable 
 sources that have proven to be financially respectable over the past years. 
-###Results:
+### Results:
 Steve’s parents originally wanted to invest in Daqo’s Stock (DQ) and were bestering him about looking into past return rates. As we can see from 
 my analysis, in 2018 DQ had a -63% return rate. Steve can now explain to his parents that even though they want to invest in a sustainable company, 
 DQ may not be the best option based on that year's return rate. However, Steve could also use my analysis and run the same code but for 2017. 
 In 2017, DQ was up by 199.4% which is an exceptional return rate compared to 2018. Based on these findings, it's up to Steve and his family to 
 determine their individual risk based on the data provided.
 /Resources/images/2018 DQ return
-###Summary:
+### Summary:
 After completing the same analysis throughout module 2, it was convenient to have the ability to refactor the code and use it for my new analysis. 
 While refactoring code does save a lot of time, it also comes with a price. Once the code has been pasted back into VBA, you must look through it 
 and commit any changes necessary in order for it to run with your new project. The smallest thing will create an error, which I experienced multiple 
