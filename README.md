@@ -1,4 +1,4 @@
-# Stock-Analysis
+# Stock_Analysis
 ## VBA Challenge
 ### Overview of Project:
 The purpose of my analysis is to help Steve analyze different stock data covering a two year period. Steve’s goal is to help his parents decide which 
